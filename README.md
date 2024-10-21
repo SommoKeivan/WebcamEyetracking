@@ -37,3 +37,22 @@ Since this is not sufficient for good pupil isolation, an aperture (erosion foll
 At this point the function, based on the position of the pupil within the image, determines whether or not the eye is in the center, and consequently whether or not it is looking at the webcam.
 For the program, the user is looking at the webcam only in the case where both eye analysis responses are simultaneously affirmative.
 ![Screenshot 2024-10-21 180211](https://github.com/user-attachments/assets/453bf44d-45ef-44aa-9298-e14b96cf8bcb)
+
+## Results
+![Screenshot 2024-10-21 225735](https://github.com/user-attachments/assets/8563dd1c-5dc6-462b-9c3c-a6b24160ccf1)
+
+| Right | Left |
+| ![Screenshot 2024-10-21 225904](https://github.com/user-attachments/assets/f3e7ea60-215d-4d60-8fd9-16d20d84eca8) | ![Screenshot 2024-10-21 225919](https://github.com/user-attachments/assets/a94797a8-968b-4dd7-9ad2-d7e7243abd99) |
+| -------- | ------- |
+| Up | Down |
+| ![Screenshot 2024-10-21 230048](https://github.com/user-attachments/assets/2034ee46-f0e3-408c-9810-41f4107f85ef) | ![Screenshot 2024-10-21 230101](https://github.com/user-attachments/assets/d0524aa8-8fe6-4e2f-a923-34c56a568fad) |
+| -------- | ------- |
+| Right Up | Left Up |
+| ![Screenshot 2024-10-21 230238](https://github.com/user-attachments/assets/2d58cc40-992b-48f9-9d7d-76920ccfa8c8) | ![Screenshot 2024-10-21 230225](https://github.com/user-attachments/assets/b53e8f64-8461-4e63-aa0f-a4b0b219c3c8) |
+| -------- | ------- |
+| ![Screenshot 2024-10-21 230218](https://github.com/user-attachments/assets/dad15b8a-cc77-4a78-8109-c6ec476bf3bb) | ![Screenshot 2024-10-21 230247](https://github.com/user-attachments/assets/7ea6b009-d8cd-48fd-8273-648dadcc5677) |
+
+
+
+#### Authors: *Ameri Keivan, Baiocchi Gianmarco*
+#### Release Date: *July 2022*
